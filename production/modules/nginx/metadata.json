@@ -1,0 +1,35 @@
+{
+  "name": "lostinmalloc-nginx",
+  "version": "1.0.1",
+  "author": "Jascha Casadio",
+  "summary": "A Puppet module to install, configure and deploy the Nginx webserver. ",
+  "license": "Apache-2.0",
+  "source": "git@github.com:jaschac/puppet-nginx.git",
+  "project_page": "https://github.com/jaschac/puppet-nginx",
+  "issues_url": "https://github.com/jaschac/puppet-nginx",
+  "dependencies": [
+  
+  ],
+  "description": "A Puppet module to install, configure and deploy the Nginx webserver.",
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Debian",
+      "operatingsystemrelease": [
+        "7",
+        "8"
+      ]
+    }
+  ],
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">=4.0.0 <5.0.0"
+    }
+  ],
+  "tags": [
+    "nginx",
+    "load balancer",
+    "proxy",
+    "webserver"
+  ]
+}

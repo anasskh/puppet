@@ -1,0 +1,14 @@
+{
+  "Gemfile": "6a08ec57f18e97c4ead40a6529d05aa8",
+  "LICENSE": "fa818a259cbed7ce8bc2a22d35a464fc",
+  "README": "0530357b09260ea033eb07102b14d436",
+  "README.md": "699f1aa2d3cec129e5d2102d8f9a7f3a",
+  "Rakefile": "3044cde52b8cd8508c8400076a66ef11",
+  "manifests/config.pp": "3cd58c6ec83077134a8b4ca4effcb631",
+  "manifests/init.pp": "1c775cf218372071b06104ee2696c299",
+  "manifests/install.pp": "d717a8efb983826848b6abab2b8a06b6",
+  "manifests/params.pp": "5125aa9e6e53a7d351486f6a8a9c147f",
+  "manifests/service.pp": "2d44a05f341d4a2176512dbd0e35ada4",
+  "metadata.json": "2760f7458beeb515266d2b6786021053",
+  "templates/nginx.conf.epp": "964f5a551784747ecce8575e2a70bc99"
+}

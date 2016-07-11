@@ -1,0 +1,12 @@
+:hierarchy:
+  - %{operatingsystem}
+  - common
+  - clientcerts/%{::clientcert}
+  - %{::env}/%{::role}
+  - users
+  - global
+:backends:
+  - yaml
+:yaml:
+  :datadir: '/etc/puppet/production/hieradata'
+:logger: console

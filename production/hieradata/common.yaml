@@ -1,0 +1,3 @@
+--
+port : 19869
+permit_root_login : 'yes'
